@@ -6,23 +6,35 @@
 
 
 <br>
+<br>
+<br>
 
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<img src="https://github.com/user-attachments/assets/db3c0885-b457-4010-b218-d2c6f7bddd8b" width="300"/>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- *A passionate Self-taught Front-end and software developer*
+- *Creating Projects and Designing in free time*
+- *Currently learning Web Development by Self*
+- *My Personal website [link here](https://seorextech.netlify.app/)*
+- *I’m currently open for an Intern or a new job opportunity, this is [my website](https://seorextech.netlify.app/) or contact me directly for more info*
 
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## My Website
+
+
+**[SeorexTech](https://seorextech.netlify.app/)**
+
+
+Welcome this is my personal website, your portal to the world of programming, photography, and design. Here, you'll find a curated collection of my work, ranging from coding projects to artistic endeavors. Explore my gallery and projects to see what I've been creating!
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -33,9 +45,8 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>   
     
@@ -50,6 +61,7 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
     
 <br>
 
@@ -66,7 +78,6 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
@@ -79,14 +90,31 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Projects and Websites </b>
 <br>
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+# GPVision
+
+Introducing **GPVision**: Revolutionizing Your Gameplay Experience! Dive into a world where your **gamepad visuals come alive** with precision and flair. GPVision offers new and improved, **customizabled UI**, **real-time css editor**, and an intuitive interface designed for gamers bygamers. Elevate your **streams**, showcase your **skills**, and immerse your audience like never before. Experience the future of gamepad viewing with **GPVision** – where every button press tells a story!
+
+## Description
+
+Whats the point in this site you ask, when there already is The GamepadViewer? Well i could no longer host my controller css files / image assets, so thats where GPVision comes into play and does not require anyone to host css just throw the code into the url...
+
+
+
+<a href="https://gamepadvision.netlify.app/" target="_blank">
+<img src="https://github.com/user-attachments/assets/8b486278-6dbc-49fd-9cfd-d6f0106db529" alt=GPVision Banner style="margin-bottom: 5px;"/>
+</a>
+
+
+
+![click-here-gif-4](https://github.com/user-attachments/assets/a7c8936a-11ce-41e3-a391-07683ea6dff4)
+
+
+
 
 </a>
 </div>
@@ -107,25 +135,25 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/yousef-darwish-2bb424325/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
+<a href="https://discord.com/users/384836738041774080" target="_blank">
+<img src="https://img.shields.io/badge/Discord: seorex-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt=link style="margin-bottom: 5px;" />
+	
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
+<a href="mailto:yousef.darwish.06@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail: yousef.darwish.06@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	
 </li>
 	
 </ul>
@@ -138,19 +166,3 @@
 <br>
 
 <div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
